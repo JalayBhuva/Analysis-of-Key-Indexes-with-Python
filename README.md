@@ -7,6 +7,7 @@ To identify the factors influencing or affecting the quality of life in diverse 
 
 ## C. Tools
 Primary: Python 
+
 Secondary: pandas, matplotlib, seaborn and NumPY
 
 ## D. Problem faced?
