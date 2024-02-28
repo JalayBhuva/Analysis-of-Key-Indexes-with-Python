@@ -13,7 +13,8 @@ Secondary: pandas, matplotlib, seaborn and NumPY
 Data Cleaning: Addressing missing or inconsistent data and ensuring data quality for accurate analysis. Analyzing Global indexes of different countries to have a better view on Standard of living and other factors as well. 
 
 ## E. Solution
-Data Cleaning and Preprocessing: Thoroughly cleaning the data with precise methods to manage missing values and guarantee the accuracy of the information. 
+Data Cleaning and Preprocessing: Thoroughly cleaning the data with precise methods to manage missing values and guarantee the accuracy of the information.
+
 Visualization: Utilizing charts and graphs to visually depict data on video views, genre preferences, popularity of platforms and ect.
 
 ## F. Insights
